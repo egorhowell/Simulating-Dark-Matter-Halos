@@ -1,4 +1,3 @@
-# ADcoursework
-This is my code for one of the my physics modules in my masters year.
+# Dark Matter Halos and Solar System
 
-This code simulated the effects of different Dark Matter Halos on the Solar System. Feel to free to browse throught them, this is mainly for me to track my work.
+This is my code for one of the my physics modules in my masters year. The projected consisted of using different numerical integrators to model how different Dark Matter Halos effect the Solar System.
