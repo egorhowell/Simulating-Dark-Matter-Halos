@@ -1,6 +1,6 @@
 # Dark Matter Halos Affects On The Solar System
 
-This was one of my masters project which involved modelling how different Dark Matter Halos affected the orbit of the planets using different numerical integrators.
+This was one of my masters project which involved modelling how different Dark Matter Halo structures affected the orbits of the planets using different numerical integrators.
 
 This work included:
 
