@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
-# leapfrog integrator convergence tests
 import numpy as np
 import matplotlib.pyplot as plt
 import math
